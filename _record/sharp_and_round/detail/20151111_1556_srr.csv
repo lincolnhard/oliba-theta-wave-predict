@@ -1,0 +1,67 @@
+Tester: srr
+Test Date: 2015-11-11 15:56
+Test Mode: sharp and round
+Test Type: Alternately
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,left,c,1.142
+2,left,c,1.274
+3,right,c,0.839
+4,left,c,1.226
+5,right,c,0.646
+6,right,c,0.737
+7,right,c,0.6
+8,left,c,1.502
+9,left,c,0.976
+10,right,c,0.791
+11,left,c,0.712
+12,right,w,0.503
+13,left,c,0.996
+14,left,c,0.896
+15,right,c,0.655
+16,right,c,1.062
+17,left,c,0.656
+18,right,c,0.744
+19,right,c,0.919
+20,right,c,0.886
+21,right,c,0.518
+22,right,c,0.831
+23,right,c,0.688
+24,right,w,0.487
+25,left,c,0.916
+26,right,c,0.664
+27,right,w,2.875
+28,right,c,1.217
+29,left,c,0.696
+30,left,c,1.495
+31,left,c,0.922
+32,right,c,0.542
+33,left,c,0.657
+34,right,c,0.151
+35,right,c,0.151
+36,left,w,0.096
+37,right,w,0.092
+38,left,w,0.119
+39,right,c,0.045
+40,left,c,0.137
+41,right,w,0.045
+42,left,w,0.154
+43,right,w,0.021
+44,right,w,0.173
+45,left,w,0.014
+46,right,c,0.177
+47,left,w,0.03
+48,right,w,0.182
+49,left,w,0.081
+50,right,c,0.14
+51,left,c,0.137
+52,right,w,0.054
+53,left,c,0.217
+54,right,c,0.008
+55,left,w,0.157
+56,right,w,0.061
+57,left,c,0.304
+58,right,c,0.073
+59,right,w,0.404
+60,right,c,0.327

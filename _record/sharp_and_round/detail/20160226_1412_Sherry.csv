@@ -1,0 +1,67 @@
+Tester: Sherry
+Test Date: 2016-02-26 14:12
+Test Mode: sharp and round
+Test Type: Alternately
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,left,c,1.347
+2,right,c,0.692
+3,right,c,0.559
+4,right,c,0.831
+5,right,c,0.455
+6,left,c,0.575
+7,left,c,0.542
+8,left,c,0.568
+9,right,c,0.464
+10,left,c,0.6
+11,right,c,0.47
+12,left,c,0.504
+13,right,c,0.391
+14,left,c,0.608
+15,left,c,0.575
+16,left,c,0.559
+17,left,c,0.463
+18,right,c,0.638
+19,left,c,0.464
+20,left,c,0.503
+21,left,c,0.601
+22,left,c,0.567
+23,left,c,0.446
+24,left,c,0.63
+25,left,c,0.495
+26,left,c,0.543
+27,right,c,0.632
+28,left,c,0.479
+29,left,c,0.542
+30,right,c,0.472
+31,right,w,0.635
+32,left,c,1.854
+33,right,c,0.64
+34,right,c,0.959
+35,right,c,0.543
+36,left,w,0.67
+37,right,w,0.558
+38,right,c,0.956
+39,left,c,0.734
+40,left,c,0.768
+41,right,c,0.527
+42,right,c,0.808
+43,right,c,0.952
+44,left,c,0.736
+45,left,c,1.031
+46,right,c,0.519
+47,right,c,0.59
+48,left,c,0.552
+49,right,c,0.759
+50,right,c,0.591
+51,left,w,0.768
+52,left,c,0.726
+53,right,w,0.768
+54,right,c,0.978
+55,left,c,0.912
+56,left,c,0.878
+57,left,c,0.864
+58,right,c,0.855
+59,left,w,1.584
+60,right,c,1.229

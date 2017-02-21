@@ -1,0 +1,18 @@
+Tester: dd
+Test Date: 2016-03-01 20:47
+Test Mode: sharp and round
+Test Type: Alternately
+Test Round: 180
+Test Result:
+No.,Side,Answer,Response Time
+1,left,c,0.564
+2,left,c,0.494
+3,left,w,0.48
+4,right,c,0.957
+5,left,c,0.808
+6,right,c,0.512
+7,right,w,1.119
+8,left,c,0.718
+9,left,c,0.56
+10,left,w,0.192
+11,right,c,0.111

@@ -1,0 +1,67 @@
+Tester: 山本先生
+Test Date: 2016-02-25 17:30
+Test Mode: sharp and round
+Test Type: Alternately
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,right,c,1.248
+2,left,c,0.655
+3,left,c,0.841
+4,left,c,0.646
+5,right,c,0.664
+6,left,c,0.544
+7,right,c,0.664
+8,left,w,0.199
+9,left,c,0.3
+10,right,c,0.056
+11,left,w,0.15
+12,right,c,0.047
+13,left,c,0.135
+14,right,w,0.071
+15,left,w,0.127
+16,left,c,0.455
+17,left,c,1.264
+18,right,c,0.679
+19,right,c,0.519
+20,right,c,0.463
+21,right,c,0.415
+22,right,c,0.4
+23,right,w,0.447
+24,left,c,0.815
+25,left,w,0.495
+26,left,w,0.174
+27,left,c,0.191
+28,left,c,0.183
+29,left,w,0.184
+30,left,c,0.198
+31,right,c,0.873
+32,right,c,0.68
+33,left,w,0.774
+34,left,c,0.758
+35,right,c,0.591
+36,right,c,0.944
+37,left,c,0.328
+38,left,c,0.191
+39,left,w,0.501
+40,left,w,0.085
+41,left,c,0.079
+42,left,w,0.084
+43,left,w,0.082
+44,left,w,0.085
+45,left,c,0.079
+46,left,c,0.083
+47,left,w,0.083
+48,left,w,0.082
+49,left,c,0.081
+50,left,w,0.084
+51,left,c,0.082
+52,left,w,0.082
+53,left,w,0.083
+54,left,c,0.081
+55,left,c,0.084
+56,left,w,0.083
+57,left,c,0.083
+58,left,c,0.084
+59,left,w,0.084
+60,left,c,0.083

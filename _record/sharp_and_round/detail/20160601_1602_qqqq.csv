@@ -1,0 +1,14 @@
+Tester: qqqq
+Test Date: 2016-06-01 16:02
+Test Mode: sharp and round
+Test Type: Single2
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,left,w,6.305
+2,left,c,0.348
+3,left,w,0.318
+4,left,c,0.878
+5,left,c,0.28
+6,left,w,0.229
+7,left,c,0.269

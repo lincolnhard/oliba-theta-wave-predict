@@ -1,0 +1,26 @@
+Tester: ghgjhgjhgjgjh
+Test Date: 2016-06-15 21:31
+Test Mode: mood distingulish
+Test Result:
+No.,Stage,Word,Type,Response
+1,1,墨守成規,Negative,correct
+2,1,沒安全感的,Negative,correct
+3,1,迷信的,Negative,miss
+4,1,化學的,Neutral,pass
+5,1,不誠實,Negative,correct
+6,1,愛做白日夢,Negative,miss
+7,1,自私,Negative,miss
+8,1,心情不穩定的,Negative,miss
+9,1,脆弱,Negative,miss
+10,1,不信任他人,Negative,miss
+11,1,生鏽的,Neutral,pass
+12,1,持續的,Neutral,pass
+13,1,無禮,Negative,miss
+14,1,清脆,Neutral,pass
+15,1,不近人情,Negative,miss
+16,1,輕浮,Negative,miss
+17,1,極端刻薄,Negative,miss
+18,1,憂鬱的,Negative,miss
+19,1,金屬感,Neutral,pass
+20,1,自得自滿,Negative,miss
+21,2,安靜的,Negative,miss

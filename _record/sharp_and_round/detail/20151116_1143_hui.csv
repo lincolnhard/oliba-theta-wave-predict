@@ -1,0 +1,67 @@
+Tester: hui
+Test Date: 2015-11-16 11:43
+Test Mode: sharp and round
+Test Type: Alternately
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,left,c,6.24
+2,right,c,1.049
+3,left,w,2.655
+4,left,c,1.393
+5,right,c,2.309
+6,left,w,1.807
+7,right,c,4.355
+8,right,c,2.119
+9,right,c,1.449
+10,right,c,1.423
+11,right,c,2.414
+12,right,w,1.064
+13,right,c,2.435
+14,right,c,1.417
+15,right,c,4.926
+16,right,c,0.968
+17,right,w,2.44
+18,left,w,3.757
+19,right,c,6.781
+20,left,c,3.36
+21,left,c,1.949
+22,left,w,1.768
+23,left,c,2.959
+24,right,c,0.743
+25,right,c,1.984
+26,right,c,2.271
+27,right,c,0.807
+28,right,c,0.799
+29,left,c,1.055
+30,left,c,0.928
+31,right,c,1.318
+32,right,c,0.864
+33,right,c,1.143
+34,left,c,0.758
+35,right,c,0.767
+36,left,c,0.919
+37,left,c,1.2
+38,right,c,0.711
+39,right,c,0.927
+40,right,c,0.856
+41,right,c,0.918
+42,left,w,1.271
+43,right,c,0.171
+44,left,c,0.194
+45,right,w,0.103
+46,left,w,0.062
+47,right,c,0.123
+48,left,c,0.031
+49,left,w,0.16
+50,right,w,0.03
+51,left,w,0.167
+52,right,c,0.07
+53,left,w,0.131
+54,right,c,0.091
+55,left,w,0.128
+56,right,c,0.1
+57,left,c,0.192
+58,right,w,0.103
+59,left,w,0.237
+60,right,c,0.137

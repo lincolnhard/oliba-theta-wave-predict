@@ -1,0 +1,67 @@
+Tester: ok
+Test Date: 2015-09-10 20:30
+Test Mode: sharp and round
+Test Type: Single1
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,left,c,0.607
+2,right,w,1.215
+3,right,c,0.893
+4,left,c,1.663
+5,right,c,0.672
+6,left,c,0.608
+7,left,c,0.648
+8,left,c,0.721
+9,right,c,0.56
+10,left,c,0.687
+11,right,c,0.576
+12,left,c,0.663
+13,right,w,0.832
+14,left,c,1.054
+15,right,c,0.592
+16,right,c,0.679
+17,left,c,0.768
+18,right,c,0.536
+19,left,w,0.543
+20,right,w,0.079
+21,left,c,0.728
+22,right,c,0.495
+23,left,c,0.64
+24,right,c,0.52
+25,left,c,0.56
+26,left,c,2.415
+27,left,c,0.945
+28,right,c,0.56
+29,left,c,0.664
+30,right,c,0.592
+31,left,c,0.583
+32,right,c,0.576
+33,left,c,0.183
+34,right,c,0.305
+35,left,c,0.16
+36,right,w,0.152
+37,left,w,0.158
+38,right,c,0.11
+39,left,c,0.209
+40,right,c,0.16
+41,left,c,0.36
+42,right,c,0.144
+43,left,c,0.159
+44,right,c,0.151
+45,left,w,0.112
+46,right,w,0.174
+47,left,w,0.07
+48,left,w,0.233
+49,right,w,0.006
+50,left,w,0.166
+51,right,c,0.191
+52,left,c,0.111
+53,right,w,0.183
+54,left,c,0.142
+55,right,c,0.168
+56,left,w,0.182
+57,left,c,1.856
+58,left,c,0.943
+59,right,w,1.936
+60,right,c,0.207

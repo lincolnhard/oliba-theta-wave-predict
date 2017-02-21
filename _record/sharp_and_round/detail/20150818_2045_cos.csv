@@ -1,0 +1,67 @@
+Tester: cos
+Test Date: 2015-08-18 20:45
+Test Mode: sharp and round
+Test Type: Alternately
+Test Round: 60
+Test Result:
+No.,Side,Answer,Response Time
+1,left,c,0.668
+2,left,c,0.639
+3,left,c,0.52
+4,right,c,0.966
+5,right,c,0.623
+6,right,c,0.496
+7,right,c,0.703
+8,left,c,0.992
+9,right,c,0.576
+10,left,c,0.728
+11,left,c,0.832
+12,left,c,0.607
+13,left,c,0.422
+14,left,c,0.521
+15,right,c,0.56
+16,right,c,0.829
+17,left,c,0.792
+18,right,c,0.64
+19,right,w,0.615
+20,right,c,0.149
+21,right,c,0.169
+22,right,w,0.175
+23,right,c,0.166
+24,right,c,0.185
+25,right,w,0.183
+26,right,w,0.197
+27,right,w,0.359
+28,right,w,0.181
+29,right,w,0.173
+30,right,c,0.185
+31,right,w,0.535
+32,right,c,0.155
+33,right,c,0.168
+34,left,c,0.087
+35,right,w,0.112
+36,left,c,0.088
+37,right,c,0.094
+38,left,c,0.088
+39,right,c,0.072
+40,left,c,0.096
+41,right,c,0.08
+42,left,w,0.096
+43,right,c,0.103
+44,left,c,0.08
+45,right,c,0.112
+46,left,c,0.052
+47,right,w,0.131
+48,left,w,0.043
+49,right,w,0.163
+50,left,w,0.038
+51,left,w,0.151
+52,right,c,0.007
+53,right,c,0.183
+54,left,w,0.024
+55,right,w,0.158
+56,left,w,0.038
+57,right,c,0.15
+58,left,w,0.056
+59,right,w,0.119
+60,left,w,0.07
